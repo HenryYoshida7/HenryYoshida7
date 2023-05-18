@@ -14,13 +14,16 @@
 ### Technologies, Languages and frameworks:
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=blue)
 ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=green)
-![Github Python]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 ### My Stats from GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oJAPAdosCODIGOS&theme=tokyonight&show_icons=true)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=oJAPAdosCODIGOS&theme=tokyonight&layout=compact)](https://github.com/PietroDS1/github-readme-stats)
 <p align="center">
-
+ 
+ <div>
+ ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+ </div>
+  
 Thank you, I hope I see you later!
 </p>
 
