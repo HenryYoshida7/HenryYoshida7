@@ -1,4 +1,4 @@
-### Hi there!
+### Olá!!!
 ### 
 #### Prazer, sou o Henry Dietri Yoshida! Tenho 18 anos e moro em São Paulo (SP). Atualmente estou cursando Ciência da Computação na faculdade Cruzeiro do sul (Paulista). Estou disponivel a ofertas de empregos na área.
  
@@ -8,7 +8,7 @@
 ### Get in touch with me through my social network: 
 
 <a href="https://www.linkedin.com/in/henry-yoshida-5875a9270/" alt= "LinkedIN" target= "_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=green&link=https://www.linkedin.com/in/pietro-danton-580573207/">
+ <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=green&link=https://www.linkedin.com/in/henry-dietri-yoshida/">
 </a>   
 
 ### Technologies, Languages and frameworks:
