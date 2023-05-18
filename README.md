@@ -20,10 +20,6 @@
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=oJAPAdosCODIGOS&theme=tokyonight&layout=compact)](https://github.com/PietroDS1/github-readme-stats)
 <p align="center">
  
- <div>
- ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
- </div>
-  
 Thank you, I hope I see you later!
 </p>
 
